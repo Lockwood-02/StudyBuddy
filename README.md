@@ -1,3 +1,4 @@
+![Website Logo](/static/images/StudyBuddy.png)
 # StudyBuddy
 
 Cloning the repository
